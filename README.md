@@ -9,7 +9,7 @@ This project predicts urban traffic situations using historical vehicle count da
 ## Data Dictionary
 
 The dataset contains traffic flow records, including:
-
+```
 Time: Timestamp of the observation
 Date: Date of the observation
 Day of the week: Day corresponding to the observation
@@ -19,7 +19,7 @@ BusCount: Number of buses counted
 TruckCount: Number of trucks counted
 Total: Total number of vehicles at the timestamp
 Traffic Situation: The categorized traffic condition (e.g., congestion levels)
-
+```
 ## Data Preprocessing
 
 Steps:
