@@ -21,12 +21,12 @@ Total: Total number of vehicles at the timestamp
 Traffic Situation: The categorized traffic condition (e.g., congestion levels)
 ```
 ## Data Preprocessing
-
+```
 Steps:
 Time & Date Formatting: The Time and Date columns were converted to appropriate formats (datetime). New features, such as Hour, Month, and Day, were extracted to capture temporal patterns.
 Handling Categorical Data: The Day of the week and Traffic Situation were label encoded into numerical values for model compatibility.
 Missing Values: Missing values in the dataset were replaced with median values of the respective columns.
-
+```
 ## 🔍 EDA Highlights
 - **Peak hours** observed in morning and evening, with spikes in car & bike volumes.
 - **Traffic congestion** increases with truck traffic and lower discount ranges.
