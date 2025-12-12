@@ -60,6 +60,11 @@ Traffic volume over time: Cars and bikes dominate during peak hours, while truck
 Day-wise Traffic Spread: Different vehicle types exhibit unique spread patterns across the week, though total traffic volume remains fairly stable.
 Pairwise Correlation: Positive correlation between CarCount and BikeCount, and a negative correlation between TruckCount and Traffic Situation, indicating heavier truck traffic during congested conditions.
 
+## How to Run
+```
+python enhanced_code.py
+```
+
 ## 📊 Visualizations
 - Line plots of vehicle flow over time
 - Heatmap of feature correlations
