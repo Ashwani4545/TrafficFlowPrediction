@@ -76,5 +76,3 @@ This model offers a foundation for smart city traffic control systems, enabling:
 - Congestion forecasting
 - Efficient route planning
 - Sustainable urban mobility through emission and fuel reduction
-
-Moreover, this project emphasizes the broader implications for sustainable urban mobility, suggesting ways to enhance traffic management systems and reduce vehicular emissions. Accurate traffic predictions can lead to more efficient road networks, supporting economic productivity by reducing time spent in traffic and improving overall transportation systems.
