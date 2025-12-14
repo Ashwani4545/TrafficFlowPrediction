@@ -51,7 +51,8 @@ The most significant features affecting traffic flow prediction were:
 1) CarCount
 2) BikeCount
 3) Day of the week
-4) Hour of the day These features played a critical role in predicting the traffic situation.
+4) Hour of the day
+These features played a critical role in predicting the traffic situation.
 
 Graphical Insights
 Several visualizations were generated to enhance understanding:
