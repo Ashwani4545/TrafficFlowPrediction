@@ -9,7 +9,7 @@
 ![Machine Learning](https://img.shields.io/badge/ML-Random_Forest-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-<img src="https://th.bing.com/th/id/R.2f52a356c87d4d40374404cd30140c35?rik=CYZ0xVw1sOqSgQ&riu=http%3a%2f%2fi.huffpost.com%2fgen%2f1324194%2fimages%2fo-DRIVERS-TRAFFIC-facebook.jpg&ehk=AT7XxdZq5EDQ%2fMl%2bQzQuogHdXmQXglRKGUiBVhx4FlU%3d&risl=&pid=ImgRaw&r=0" width="700" alt="Traffic Flow">
+<img src="https://tse2.mm.bing.net/th/id/OIP.qCF3M1oJWB-VWraCTGLhGgHaE7?cb=ucfimg2&ucfimg=1&w=626&h=417&rs=1&pid=ImgDetMain&o=7&rm=3" width="700" alt="Traffic Flow">
 
 **Predict urban traffic congestion using machine learning to build smarter, greener cities!**
 
