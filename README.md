@@ -19,24 +19,6 @@
 
 ---
 
-## 📖 Table of Contents
-
-- [🎯 Overview](#-overview)
-- [✨ Features](#-features)
-- [🔧 Technologies Used](#-technologies-used)
-- [📁 Dataset](#-dataset)
-- [🔄 Data Preprocessing](#-data-preprocessing)
-- [🔍 Exploratory Data Analysis](#-exploratory-data-analysis)
-- [🧠 Machine Learning Model](#-machine-learning-model)
-- [📊 Visualizations](#-visualizations)
-- [🚀 Getting Started](#-getting-started)
-- [💡 Results & Insights](#-results--insights)
-- [🎯 Future Scope](#-future-scope)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-
----
-
 ## 🎯 Overview
 
 This project leverages **Machine Learning** to predict urban traffic situations using historical vehicle count data. By analyzing time-series features like day, time, and traffic volume from multiple vehicle types (cars, bikes, buses, trucks), we can forecast congestion levels and provide actionable insights for:
