@@ -1,9 +1,6 @@
 <div align="center">
 
 # 🚦 Traffic Flow Prediction
-
----
-
 ## 🎯 Overview
 
 This project leverages **Machine Learning** to predict urban traffic situations using historical vehicle count data. By analyzing time-series features like day, time, and traffic volume from multiple vehicle types (cars, bikes, buses, trucks), we can forecast congestion levels and provide actionable insights for:
