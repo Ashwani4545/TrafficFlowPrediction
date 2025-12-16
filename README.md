@@ -4,19 +4,6 @@
 
 ### *Intelligent Urban Traffic Analysis & Forecasting System*
 
-![Traffic](https://img.shields.io/badge/Traffic-Prediction-blue?style=for-the-badge&logo=waze&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.8+-green?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-Random_Forest-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-
-<img src="https://tse2.mm.bing.net/th/id/OIP.qCF3M1oJWB-VWraCTGLhGgHaE7?cb=ucfimg2&ucfimg=1&w=626&h=417&rs=1&pid=ImgDetMain&o=7&rm=3" width="700" alt="Traffic Flow">
-
-**Predict urban traffic congestion using machine learning to build smarter, greener cities!**
-
-[📊 View Dataset](TrafficDataset.csv) • [📓 Jupyter Notebook](Traffic_flow_prediction.ipynb) • [🐍 Python Code](code.py)
-
-</div>
-
 ---
 
 ## 🎯 Overview
