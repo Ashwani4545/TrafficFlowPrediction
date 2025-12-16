@@ -2,8 +2,6 @@
 
 # 🚦 Traffic Flow Prediction
 
-### *Intelligent Urban Traffic Analysis & Forecasting System*
-
 ---
 
 ## 🎯 Overview
