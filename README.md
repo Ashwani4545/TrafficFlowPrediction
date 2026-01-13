@@ -301,7 +301,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-
 ### 🌟 If you find this project useful, please give it a star! ⭐
-
 </div>
