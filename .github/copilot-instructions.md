@@ -20,9 +20,7 @@ TrafficFlowPrediction/
 ├── README.md                         # Project documentation
 └── description.md                    # Detailed project description
 ```
-
 ## Code Style and Standards
-
 ### Python Style
 - Follow PEP 8 guidelines for Python code
 - Use meaningful variable names (e.g., `df` for dataframes, descriptive names for features)
